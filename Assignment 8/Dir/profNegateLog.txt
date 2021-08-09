@@ -1,0 +1,11 @@
+[ 0] Beginning test of Rational_Negate().
+[ 0] Calling Rational_Negate() with 30/13.
+[ 0] Returned: -30/13
+[ 5] That is correct.
+[ 0] Calling Rational_Negate() with -27/19.
+[ 0] Returned: 27/19
+[ 5] That is correct.
+[ 0] Calling Rational_Negate() with 0/6.
+[ 0] Returned: 0/6
+[10] That is correct.
+[ 0] Ending test of Rational_Negate().

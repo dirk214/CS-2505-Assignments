@@ -1,0 +1,17 @@
+[ 0] Beginning test of Rational_Multiply().
+[ 0] Calling Rational_Multiply() with 30/13 and 27/19.
+[ 0] Returned: 810/247
+[10] That is correct.
+[ 0] Calling Rational_Multiply() with -26/25 and 9/-4.
+[ 0] Returned: -234/-100
+[10] That is correct.
+[ 0] Calling Rational_Multiply() with 17/11 and 5/-6.
+[ 0] Returned: 85/-66
+[10] That is correct.
+[ 0] Calling Rational_Multiply() with 5/-6 and 17/11.
+[ 0] Returned: 85/-66
+[10] That is correct.
+[ 0] Calling Rational_Multiply() with 13/9 and 0/5.
+[ 0] Returned: 0/45
+[10] That is correct.
+[ 0] Ending test of Rational_Multiply().

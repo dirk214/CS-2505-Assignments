@@ -1,0 +1,14 @@
+Beginning test of Rational_Construct().
+Calling Rational_Construct(13, 30).
+Returned: 13/30
+That is correct.
+Calling Rational_Construct(29, 29).
+Returned: 29/29
+That is correct.
+Calling Rational_Construct(17, -18).
+Returned: 17/-18
+That is correct.
+Calling Rational_Construct(0, 43).
+Returned: 0/43
+That is correct.
+Ending test of Rational_Construct().

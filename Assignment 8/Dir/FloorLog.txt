@@ -1,0 +1,20 @@
+Beginning test of Rational_Floor().
+Calling Rational_Floor() with 20/19.
+Returned:  1
+That is correct.
+Calling Rational_Floor() with 53/9.
+Returned:  5
+That is correct.
+Calling Rational_Floor() with -91/18.
+Returned:  -5
+Bummer:  that is not correct.
+Calling Rational_Floor() with -11/2.
+Returned:  -5
+Bummer:  that is not correct.
+Calling Rational_Floor() with 30/5.
+Returned:  6
+That is correct.
+Calling Rational_Floor() with -50/10.
+Returned:  -5
+That is correct.
+Ending test of Rational_Floor().

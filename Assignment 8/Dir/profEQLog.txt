@@ -1,0 +1,17 @@
+[ 0] Beginning test of Rational_Equals().
+[ 0] Calling Rational_Equals() with 30/13 and 30/13.
+[ 0] Returned: true
+[10] That is correct.
+[ 0] Calling Rational_Equals() with 27/19 and 54/38.
+[ 0] Returned: true
+[10] That is correct.
+[ 0] Calling Rational_Equals() with 25/27 and 75/216.
+[ 0] Returned: false
+[10] That is correct.
+[ 0] Calling Rational_Equals() with -11/-15 and -44/-105.
+[ 0] Returned: false
+[10] That is correct.
+[ 0] Calling Rational_Equals() with 2/3 and -12/-24.
+[ 0] Returned: false
+[10] That is correct.
+[ 0] Ending test of Rational_Equals().

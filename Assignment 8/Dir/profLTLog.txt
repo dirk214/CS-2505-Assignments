@@ -1,0 +1,26 @@
+[ 0] Beginning test of Rational_LessThan().
+[ 0] Calling Rational_LessThan() with 30/13 and 30/13.
+[ 0] Returned: false
+[ 5] That is correct.
+[ 0] Calling Rational_LessThan() with 27/19 and 54/38.
+[ 0] Returned: false
+[ 5] That is correct.
+[ 0] Calling Rational_LessThan() with 25/27 and 75/216.
+[ 0] Returned: false
+[ 5] That is correct.
+[ 0] Calling Rational_LessThan() with 75/216 and 25/27.
+[ 0] Returned: true
+[ 5] That is correct.
+[ 0] Calling Rational_LessThan() with -11/-15 and -44/-105.
+[ 0] Returned: false
+[ 5] That is correct.
+[ 0] Calling Rational_LessThan() with -44/-105 and -11/-15.
+[ 0] Returned: true
+[ 5] That is correct.
+[ 0] Calling Rational_LessThan() with 2/3 and -12/-24.
+[ 0] Returned: false
+[ 5] That is correct.
+[ 0] Calling Rational_LessThan() with -12/-24 and 2/3.
+[ 0] Returned: true
+[ 5] That is correct.
+[ 0] Ending test of Rational_LessThan().

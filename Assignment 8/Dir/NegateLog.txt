@@ -1,0 +1,11 @@
+Beginning test of Rational_Negate().
+Calling Rational_Negate() with 11/8.
+Returned: -11/8
+That is correct.
+Calling Rational_Negate() with 21/-25.
+Returned: -21/-25
+That is correct.
+Calling Rational_Negate() with 0/11.
+Returned: 0/11
+That is correct.
+Ending test of Rational_Negate().

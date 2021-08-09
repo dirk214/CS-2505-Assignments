@@ -1,0 +1,17 @@
+[ 0] Beginning test of Rational_Add().
+[ 0] Calling Rational_Add() with 30/13 and 27/19.
+[ 0] Returned: 921/247
+[10] That is correct.
+[ 0] Calling Rational_Add() with -26/25 and 9/-4.
+[ 0] Returned: 329/-100
+[10] That is correct.
+[ 0] Calling Rational_Add() with 17/11 and 5/-6.
+[ 0] Returned: -47/-66
+[10] That is correct.
+[ 0] Calling Rational_Add() with 5/-6 and 17/11.
+[ 0] Returned: -47/-66
+[10] That is correct.
+[ 0] Calling Rational_Add() with 13/9 and 0/5.
+[ 0] Returned: 65/45
+[10] That is correct.
+[ 0] Ending test of Rational_Add().

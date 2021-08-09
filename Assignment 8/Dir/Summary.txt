@@ -1,0 +1,7 @@
+Passed test of Rational_Construct().
+Passed test of Rational_Negate().
+Failed test of Rational_Floor().
+Passed test of Rational_Add().
+Passed test of Rational_Multiply().
+Passed test of Rational_Equals().
+Passed test of Rational_LessThan().
